@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Stephen Polacheck, and Not Sure what I'm doing on this site
 
 You can use the [editor on GitHub](https://github.com/polacheck/home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
